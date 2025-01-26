@@ -60,8 +60,11 @@
     "clojure": {
       "iconPath": "./icons/file_type_clojure@2x.png"
     },
+    "cmake": {
+      "iconPath": "./icons/cmake.svg"
+    },
     "coffeescript": {
-      "iconPath": "./icons/file_type_coffeescript@2x.png"
+      "iconPath": "./icons/file_type_coffeescript@2x.svg"
     },
     "cpp": {
       "iconPath": "./icons/file_type_cpp.svg"
@@ -115,7 +118,7 @@
       "iconPath": "./icons/file_type_git.svg"
     },
     "go": {
-      "iconPath": "./icons/file_type_go.svg"
+      "iconPath": "./icons/file_type_go@2x.png"
     },
     "gql": {
       "iconPath": "./icons/file_type_gql.svg"
@@ -229,7 +232,7 @@
       "iconPath": "./icons/file_type_procfile.svg"
     },
     "proto": {
-      "iconPath": "./icons/file_type_go@2x.png"
+      "iconPath": "./icons/file_type_proto.svg"
     },
     "psd": {
       "iconPath": "./icons/file_type_psd@2x.png"
@@ -389,6 +392,7 @@
     "cljc": "clojure",
     "cljs": "clojure",
     "clojure": "clojure",
+    "cmake": "cmake",
     "cma": "binary",
     "cmd": "shell",
     "cmi": "binary",
