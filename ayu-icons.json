@@ -177,6 +177,9 @@
     "jupyter": {
       "iconPath": "./icons/file_type_jupyter.svg"
     },
+    "kotlin": {
+      "iconPath": "./icons/file_type_kotlin.svg"
+    },
     "less": {
       "iconPath": "./icons/file_type_less@2x.png"
     },
@@ -463,6 +466,7 @@
     "jsp": "jsp",
     "jsx": "jsx",
     "julia": "julia",
+    "kt": "kotsadlin",
     "less": "less",
     "lhs": "haskell",
     "lib": "binary",
