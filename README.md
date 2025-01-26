@@ -10,8 +10,17 @@ A simple theme with bright colors and comes in three versions — *dark*, *light
 
 Overwrite Ayu File Location
 
+Windows
 ```shell
 C:\Users\%USERPROFILE%\.vscode\extensions\teabyii.ayu-1.0.5
+```
+MacOS
+```shell
+~/.vscode/extensionsteabyii.ayu-1.0.5
+```
+Linux
+```shell
+~/.vscode/extensions/teabyii.ayu-1.0.5
 ```
 
 ## Screenshots
