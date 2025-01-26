@@ -8,12 +8,11 @@ A simple theme with bright colors and comes in three versions — *dark*, *light
 
 ## Install
 
-```shell
-ext install ayu
-```
+Overwrite Ayu File Location
 
-Then go to `Preferences > Color Theme > Ayu Light(or Ayu Dark, or Ayu Mirage)`.
-If you want to setup File Icon, then go to `Preferences > File Icon Theme > Ayu`.
+```shell
+C:\Users\%USERPROFILE%\.vscode\extensions\teabyii.ayu-1.0.5
+```
 
 ## Screenshots
 
@@ -28,15 +27,3 @@ If you want to setup File Icon, then go to `Preferences > File Icon Theme > Ayu`
 #### Dark
 ![Dark](https://github.com/ayu-theme/vscode-ayu/raw/HEAD/assets/dark.png)
 ![Dark Bordered](https://github.com/ayu-theme/vscode-ayu/raw/HEAD/assets/dark-bordered.png)
-
-## Development
-
-Install dependencies
-```shell
-npm install
-```
-
-Update themes and build VSIX package
-```shell
-npm run build && npm run package
-```
