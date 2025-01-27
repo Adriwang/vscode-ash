@@ -82,7 +82,7 @@
       "iconPath": "./icons/file_type_dart@2x.png"
     },
     "dlang": {
-      "iconPath": "./icons/file_type_dlang@2x.png"
+      "iconPath": "./icons/file_type_dlang.svg"
     },
     "docker": {
       "iconPath": "./icons/file_type_docker@2x.png"
@@ -357,6 +357,9 @@
     "yarn": {
       "iconPath": "./icons/file_type_yarn@2x.png"
     },
+    "zig": {
+      "iconPath": "./icons/file_type_zig.svg"
+    },
     "zip": {
       "iconPath": "./icons/file_type_archive@2x.png"
     }
@@ -427,6 +430,8 @@
     "fig": "matlab",
     "fish": "fish",
     "fs":"fsharp",
+    "fsi":"fsharp",
+    "fsx":"fsharp",
     "gdscript": "gdscript",
     "gemspec": "ruby",
     "gf": "haskell",
@@ -466,7 +471,10 @@
     "jsp": "jsp",
     "jsx": "jsx",
     "julia": "julia",
-    "kt": "kotsadlin",
+    "kt": "kotlin",
+    "kts": "kotlin",
+    "klib": "kotlin",
+    "kexe": "kotlin",
     "less": "less",
     "lhs": "haskell",
     "lib": "binary",
@@ -474,6 +482,8 @@
     "lit": "haskell",
     "lsl": "lsl",
     "lua": "lua",
+    "luac": "lua",
+    "luau": "lua",
     "lucee": "cfm",
     "markdown": "markdown",
     "mat": "matlab",
@@ -537,9 +547,11 @@
     "ruby": "ruby",
     "re": "reasonml",
     "rs": "rust",
+    "rlib": "rust",
     "rt": "react",
     "rwd": "matlab",
     "sass": "sass",
+    "sc": "scala",
     "scala": "scala",
     "scss": "scss",
     "sfd": "font",
@@ -581,6 +593,8 @@
     "xz": "archive",
     "yaml": "yaml",
     "yml": "yaml",
+    "zig":"zig",
+    "zir":"zig",
     "zip": "archive",
     "zsh": "shell"
   },
