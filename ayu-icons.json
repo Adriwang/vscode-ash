@@ -342,6 +342,9 @@
     "typescript": {
       "iconPath": "./icons/file_type_typescript.svg"
     },
+    "tsx": {
+      "iconPath": "./icons/file_type_tsx.svg"
+    },
     "vue": {
       "iconPath": "./icons/file_type_vue.svg"
     },
@@ -578,7 +581,7 @@
     "tiled-project":"tiled",
     "tikz": "matlab",
     "ts": "typescript",
-    "tsx": "typescript",
+    "tsx": "tsx",
     "ttf": "font",
     "twig": "twig",
     "txt": "text",
