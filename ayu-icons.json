@@ -549,7 +549,7 @@
     "rb": "ruby",
     "ru": "ruby",
     "ruby": "ruby",
-    ".ruby-version": "ruby",
+    "ruby-version": "ruby",
     "re": "reasonml",
     "rs": "rust",
     "rlib": "rust",
