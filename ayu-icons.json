@@ -79,7 +79,7 @@
       "iconPath": "./icons/file_type_csv.svg"
     },
     "dart": {
-      "iconPath": "./icons/file_type_dart@2x.png"
+      "iconPath": "./icons/file_type_dart.svg"
     },
     "dlang": {
       "iconPath": "./icons/file_type_dlang.svg"
@@ -277,7 +277,7 @@
       "iconPath": "./icons/file_type_sass.svg"
     },
     "scala": {
-      "iconPath": "./icons/file_type_scala@2x.png"
+      "iconPath": "./icons/Scala.svg"
     },
     "scss": {
       "iconPath": "./icons/file_type_scss.svg"
