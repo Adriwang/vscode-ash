@@ -63,6 +63,9 @@
     "cmake": {
       "iconPath": "./icons/cmake.svg"
     },
+    "crystal": {
+      "iconPath": "./icons/file_type_crystal.svg"
+    },
     "coffeescript": {
       "iconPath": "./icons/file_type_coffeescript@2x.svg"
     },
@@ -408,6 +411,7 @@
     "cmo": "binary",
     "cmx": "binary",
     "cmxa": "binary",
+    "cr":"crystal",
     "coffee": "coffeescript",
     "cpp": "cpp",
     "cs": "csharp",
