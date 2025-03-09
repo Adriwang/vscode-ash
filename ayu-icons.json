@@ -440,6 +440,7 @@
     "fsi":"fsharp",
     "fsx":"fsharp",
     "gdscript": "gdscript",
+    "gd": "gdscript",
     "gemspec": "ruby",
     "gf": "haskell",
     "gif": "image",
