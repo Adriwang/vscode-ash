@@ -36,6 +36,9 @@
     "babel": {
       "iconPath": "./icons/file_type_babel@2x.png"
     },
+    "basic": {
+      "iconPath":"./icons/FreeBASIC.png"
+    },
     "binary": {
       "iconPath": "./icons/file_type_binary.svg"
     },
@@ -121,6 +124,9 @@
       "iconPath": "./icons/file_type_git.svg"
     },
     "go": {
+      "iconPath": "./icons/file_type_go.svg"
+    },
+    "gomod":{
       "iconPath": "./icons/file_type_go@2x.png"
     },
     "gql": {
@@ -386,6 +392,8 @@
     "app": "applescript",
     "as": "actionscript",
     "bak": "bookmark",
+    "bas":"basic",
+    "bi":"basic",
     "bash": "shell",
     "bat": "shell",
     "bil": "lisp",
@@ -449,6 +457,8 @@
     "gitkeep": "git",
     "gitmodules": "git",
     "go": "go",
+    "mod": "gomod",
+    "sum": "gomod",
     "gql": "gql",
     "gradle": "gradle",
     "graphql": "gql",
