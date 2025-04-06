@@ -123,6 +123,9 @@
     "git": {
       "iconPath": "./icons/file_type_git.svg"
     },
+    "glsl": {
+      "iconPath": "./icons/file_type_glsl.svg"
+    },
     "go": {
       "iconPath": "./icons/file_type_go.svg"
     },
@@ -456,6 +459,8 @@
     "gitignore": "git",
     "gitkeep": "git",
     "gitmodules": "git",
+    "glsl": "glsl",
+    "frag": "glsl",
     "go": "go",
     "mod": "gomod",
     "sum": "gomod",
@@ -481,6 +486,7 @@
     "jade": "pug",
     "jade-lintrc": "pug",
     "java": "java",
+    "jar": "java",
     "jl": "julia",
     "jpeg": "image",
     "jpg": "image",
