@@ -1,4 +1,4 @@
-![vscode-ayu](https://github.com/ayu-theme/vscode-ayu/raw/HEAD/assets/header.png)
+![vscode-Ash](https://github.com/ayu-theme/vscode-ayu/raw/HEAD/assets/header.png)
 
 > Source from: https://github.com/dempfi/ayu
 
