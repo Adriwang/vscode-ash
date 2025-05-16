@@ -1,16 +1,16 @@
 {
-	"name": "ayu",
-	"displayName": "Ayu",
+	"name": "ash",
+	"displayName": "Ash",
 	"description": "A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.",
 	"version": "1.0.5",
 	"publisher": "teabyii",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ayu-theme/vscode-ayu"
+		"url": "https://github.com/Ash-theme/vscode-Ash"
 	},
 	"bugs": {
-		"url": "https://github.com/ayu-theme/vscode-ayu/issues",
+		"url": "https://github.com/Ash-theme/vscode-Ash/issues",
 		"email": "teabyii@gmail.com"
 	},
 	"engines": {
@@ -22,48 +22,48 @@
 	"keywords": [
 		"icon-theme",
 		"theme",
-		"ayu"
+		"Ash"
 	],
-	"homepage": "https://github.com/ayu-theme/vscode-ayu",
+	"homepage": "https://github.com/Ash-theme/vscode-Ash",
 	"icon": "assets/logo.png",
 	"contributes": {
 		"themes": [
 			{
-				"label": "Ayu Dark",
+				"label": "Ash Dark",
 				"uiTheme": "vs-dark",
-				"path": "./ayu-dark.json"
+				"path": "./Ash-dark.json"
 			},
 			{
-				"label": "Ayu Dark Bordered",
+				"label": "Ash Dark Bordered",
 				"uiTheme": "vs-dark",
-				"path": "./ayu-dark-bordered.json"
+				"path": "./Ash-dark-bordered.json"
 			},
 			{
-				"label": "Ayu Light",
+				"label": "Ash Light",
 				"uiTheme": "vs",
-				"path": "./ayu-light.json"
+				"path": "./Ash-light.json"
 			},
 			{
-				"label": "Ayu Light Bordered",
+				"label": "Ash Light Bordered",
 				"uiTheme": "vs",
-				"path": "./ayu-light-bordered.json"
+				"path": "./Ash-light-bordered.json"
 			},
 			{
-				"label": "Ayu Mirage",
+				"label": "Ash Mirage",
 				"uiTheme": "vs-dark",
-				"path": "./ayu-mirage.json"
+				"path": "./Ash-mirage.json"
 			},
 			{
-				"label": "Ayu Mirage Bordered",
+				"label": "Ash Mirage Bordered",
 				"uiTheme": "vs-dark",
-				"path": "./ayu-mirage-bordered.json"
+				"path": "./Ash-mirage-bordered.json"
 			}
 		],
 		"iconThemes": [
 			{
-				"id": "ayu",
-				"label": "Ayu",
-				"path": "./ayu-icons.json"
+				"id": "Ash",
+				"label": "Ash",
+				"path": "./Ash-icons.json"
 			}
 		]
 	},
@@ -75,7 +75,7 @@
 	},
 	"devDependencies": {
 		"@types/node": "^16.6.0",
-		"ayu": "^8.0.1",
+		"Ash": "^8.0.1",
 		"ts-node": "^8.10.2",
 		"typescript": "^3.9.3",
 		"vsce": "^1.96.1"
