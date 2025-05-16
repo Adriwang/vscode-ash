@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="ayu" Version="1.0.5" Publisher="Adriwang"  />
+    <Identity Language="en-US" Id="ash" Version="1.0.5" Publisher="Adriwang"  />
     <DisplayName>Ash</DisplayName>
     <Description xml:space="preserve">A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.</Description>
     <Tags>icon-theme,theme,ash,color-theme,__web_extension</Tags>
@@ -31,7 +31,6 @@
       
     </Properties>
     <License>extension/LICENSE.txt</License>
-    <Icon>extension/assets/logo.png</Icon>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Code"/>
