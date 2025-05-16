@@ -3,15 +3,14 @@
 	"displayName": "Ash",
 	"description": "A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.",
 	"version": "1.0.5",
-	"publisher": "teabyii",
+	"publisher": "Adriwang",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Ash-theme/vscode-Ash"
+		"url": "https://github.com/Adriwang/vscode-ash"
 	},
 	"bugs": {
-		"url": "https://github.com/Ash-theme/vscode-Ash/issues",
-		"email": "teabyii@gmail.com"
+		"url": "https://github.com/Adriwang/vscode-ash/issues"
 	},
 	"engines": {
 		"vscode": "^1.13.0"
@@ -24,46 +23,46 @@
 		"theme",
 		"Ash"
 	],
-	"homepage": "https://github.com/Ash-theme/vscode-Ash",
+	"homepage": "https://github.com/Adriwang/vscode-ash",
 	"icon": "assets/logo.png",
 	"contributes": {
 		"themes": [
 			{
 				"label": "Ash Dark",
 				"uiTheme": "vs-dark",
-				"path": "./Ash-dark.json"
+				"path": "./ash-dark.json"
 			},
 			{
 				"label": "Ash Dark Bordered",
 				"uiTheme": "vs-dark",
-				"path": "./Ash-dark-bordered.json"
+				"path": "./ash-dark-bordered.json"
 			},
 			{
 				"label": "Ash Light",
 				"uiTheme": "vs",
-				"path": "./Ash-light.json"
+				"path": "./ash-light.json"
 			},
 			{
 				"label": "Ash Light Bordered",
 				"uiTheme": "vs",
-				"path": "./Ash-light-bordered.json"
+				"path": "./ash-light-bordered.json"
 			},
 			{
 				"label": "Ash Mirage",
 				"uiTheme": "vs-dark",
-				"path": "./Ash-mirage.json"
+				"path": "./ash-mirage.json"
 			},
 			{
 				"label": "Ash Mirage Bordered",
 				"uiTheme": "vs-dark",
-				"path": "./Ash-mirage-bordered.json"
+				"path": "./ash-mirage-bordered.json"
 			}
 		],
 		"iconThemes": [
 			{
 				"id": "Ash",
 				"label": "Ash",
-				"path": "./Ash-icons.json"
+				"path": "./ash-icons.json"
 			}
 		]
 	},
