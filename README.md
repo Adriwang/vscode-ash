@@ -18,5 +18,5 @@ MacOS
 ```
 Linux
 ```shell
-~/.vscode/extensions/teabyii.ayu-1.0.5
+/usr/share/code/resources/app/extensions/
 ```
