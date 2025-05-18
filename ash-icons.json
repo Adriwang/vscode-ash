@@ -614,7 +614,6 @@
     "webmanifest": "node",
     "woff": "font",
     "woff2": "font",
-    "xml":"tiled",
     "xvc": "matlab",
     "xz": "archive",
     "yaml": "yaml",
