@@ -4,19 +4,28 @@ A simple theme with bright colors and comes in three versions — *dark*, *light
 
 > Note that this isn't a theme maintained by the original [Ayu theme](https://github.com/dempfi/ayu) author so please report issues related to this theme here.
 
-## Install
+## Install Instrucions
 
-Copy Source to Location
+Git Clone This Respository
 
-Windows
 ```shell
-C:\Users\%USERPROFILE%\.vscode\extensions\teabyii.ayu-1.0.5
+git clone https://github.com/Adriwang/vscode-ash.git
 ```
-MacOS
+
+Install VSCE if you have not already (NPM or alternative required)
+
 ```shell
-~/.vscode/extensions/teabyii.ayu-1.0.5
+npm install -g vsce
 ```
-Linux
+
+In the directory of this respositories source run
+
 ```shell
-/usr/share/code/resources/app/extensions/
+vsce package
+```
+
+Install the extension
+
+```shell
+code --install-extension /path/to/your/extension.vsix
 ```
