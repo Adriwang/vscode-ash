@@ -595,6 +595,7 @@
     "smv": "matlab",
     "snap": "jest",
     "so": "binary",
+    "db": "sql",
     "sql": "sql",
     "sqlite": "sql",
     "styl": "stylus",
