@@ -267,6 +267,12 @@
     "python": {
       "iconPath": "./icons/file_type_python.svg"
     },
+    "qml": {
+      "iconPath": "./icons/file_type_qml.png"
+    },
+    "qbs": {
+      "iconPath": "./icons/file_type_qbs.png"
+    },
     "R": {
       "iconPath": "./icons/file_type_R@2x.png"
     },
@@ -397,7 +403,12 @@
     "angular": "angular",
     "app": "applescript",
     "as": "actionscript",
-    "bak": "bookmark",
+    "bak": "bookmark",    "qml": {
+      "iconPath": "./icons/file_type_qml.png"
+    },
+    "qbs": {
+      "iconPath": "./icons/file_type_qbs.png"
+    },
     "bas":"basic",
     "bi":"basic",
     "bash": "shell",
@@ -571,6 +582,8 @@
     "pyo": "binary",
     "pyw": "python",
     "qtpl": "source",
+    "qml": "qml",
+    "qbs": "qbs",
     "r": "R",
     "rar": "archive",
     "rb": "ruby",
