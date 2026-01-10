@@ -37,7 +37,7 @@
       "iconPath": "./icons/file_type_babel@2x.png"
     },
     "basic": {
-      "iconPath":"./icons/FreeBASIC.png"
+      "iconPath":"./icons/file_type_freebasic.png"
     },
     "binary": {
       "iconPath": "./icons/file_type_binary.svg"
@@ -64,7 +64,7 @@
       "iconPath": "./icons/file_type_clojure@2x.png"
     },
     "cmake": {
-      "iconPath": "./icons/cmake.svg"
+      "iconPath": "./icons/file_type_cmake.svg"
     },
     "crystal": {
       "iconPath": "./icons/file_type_crystal.svg"
@@ -204,6 +204,9 @@
     "list": {
       "iconPath": "./icons/file_type_list@2x.png"
     },
+    "lotus": {
+      "iconPath": "./icons/file_type_lotus.svg"
+    },
     "lsl": {
       "iconPath": "./icons/file_type_lsl@2x.png"
     },
@@ -298,7 +301,7 @@
       "iconPath": "./icons/file_type_sass.svg"
     },
     "scala": {
-      "iconPath": "./icons/Scala.svg"
+      "iconPath": "./icons/file_type_scala.svg"
     },
     "scss": {
       "iconPath": "./icons/file_type_scss.svg"
@@ -518,6 +521,7 @@
     "lib": "binary",
     "list": "list",
     "lit": "haskell",
+    "lotus": "lotus",
     "lsl": "lsl",
     "lua": "lua",
     "luac": "lua",
