@@ -246,6 +246,9 @@
     "perl": {
       "iconPath": "./icons/file_type_perl.svg"
     },
+    "petal": {
+      "iconPath": "./icons/file_type_petal.svg"
+    },
     "php": {
       "iconPath": "./icons/file_type_php.svg"
     },
@@ -406,12 +409,7 @@
     "angular": "angular",
     "app": "applescript",
     "as": "actionscript",
-    "bak": "bookmark",    "qml": {
-      "iconPath": "./icons/file_type_qml.png"
-    },
-    "qbs": {
-      "iconPath": "./icons/file_type_qbs.png"
-    },
+    "bak": "bookmark",
     "bas":"basic",
     "bi":"basic",
     "bash": "shell",
@@ -560,6 +558,8 @@
     "pdb": "binary",
     "pdf": "pdf",
     "perl": "perl",
+    "petal":"petal",
+    "ptl":"petal",
     "pfa": "font",
     "pfb": "font",
     "phar": "php",
